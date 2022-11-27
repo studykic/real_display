@@ -1,0 +1,18 @@
+* {
+  outline: none;
+  margin: 0;
+}
+
+body {
+  /* 스크롤바 지움 */
+  /* overflow: hidden; */
+}
+
+#webgl-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  /* display: none; */
+}

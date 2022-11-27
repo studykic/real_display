@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Cube
+* source:	https://sketchfab.com/3d-models/sci-fi-cube-2c4b8f6de26b4e869d342a92d881debe
+* author:	Memorie (https://sketchfab.com/Memorie)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Cube" (https://sketchfab.com/3d-models/sci-fi-cube-2c4b8f6de26b4e869d342a92d881debe) by Memorie (https://sketchfab.com/Memorie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

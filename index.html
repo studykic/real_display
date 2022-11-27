@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+
+		<!-- css파일 -->
+		<link rel="stylesheet" href="./render_3D.css" />
+		<link rel="stylesheet" href="./style.css" />
+		<script defer type="importmap">
+			{
+			  "imports": {
+				"three": "https://unpkg.com/three@0.141.0/build/three.module.js",
+				"GLTFLoader": "https://unpkg.com/three@0.141.0/examples/jsm/loaders/GLTFLoader.js"
+			  }
+			}
+		  </script>
+		<!-- 페이지 로딩이후 스크립트 실행 -->
+		<script src="./render_3D.js" type="module" defer></script>
+
+		<script
+			src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/@mediapipe/control_utils/control_utils.js"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/@mediapipe/face_mesh/face_mesh.js"
+			crossorigin="anonymous"
+		></script>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+	</head>
+	<body>
+		<!-- 3D모델링 -->
+		<div id="webgl-container"></div>
+
+		<button id="change_Btn" style="z-index: 999; top: 101vh; position: relative;" >change model</button>
+
+		<!-- 아래는 얼굴인식 -->
+		<video id="input_video" width="850px" height="700px" ></video>
+		<br>
+		<canvas id="output_canvas" width="850px" height="700px" ></canvas>
+	
+	  </div>
+  
+	  <div id="Box_ball_2D">
+		<span id="ball_2D">*</span>
+		<span style="left: 320px; top: 200px; position: relative">.</span>
+	  </div>
+
+	  <span id="dao_x"></span>
+	  <span id="dao_y"></span>
+	  <span id="dao_z"></span>
+	</body>
+
+
+	
+
+      <!-- 하단고정 -->
+
+<!-- 모듈타입으로 설정하면 안돌아감 -->
+<script src="./ai_face_detecttion.js"  >
+</script>
+
+<script async src="https://docs.opencv.org/4.5.5/opencv.js" type="text/javascript"></script>
+
+<script src="https://docs.opencv.org/4.5.5/utils.js" type="text/javascript"></script>
+
+</html>

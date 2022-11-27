@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Bathroom Baking
+* source:	https://sketchfab.com/3d-models/simple-bathroom-baking-68e58cbb9bb042cc8e14443759941f69
+* author:	RaynaudL (https://sketchfab.com/fts_ltx)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Bathroom Baking" (https://sketchfab.com/3d-models/simple-bathroom-baking-68e58cbb9bb042cc8e14443759941f69) by RaynaudL (https://sketchfab.com/fts_ltx) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
