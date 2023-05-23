@@ -1,7 +1,41 @@
+# Real Display: 얼굴 추적을 활용한 웹 3D 모델 시뮬레이션
+
+이 프로젝트는 3D 안경 없이도 가상 모델을 실제 물건처럼 느낄 수 있게 해주는 웹 3D 모델 시뮬레이션 프로젝트입니다. 이 프로젝트는 얼굴 추적 기술을 활용하여 이러한 경험을 가능하게 합니다. 
+
+이 프로젝트는 해커톤에서 4명의 팀원들이 함께 2일 동안 협업하여 구현한 결과물입니다. 짧은 시간 동안 프로젝트를 완성해야 하는 압박감 속에서도 팀원 모두가 높은 집중력을 발휘하고 협업의 시너지를 발휘하여 이를 성공적으로 완성하였습니다.
+
+## 사용된 기술 
+- JavaScript
+- Three.js
+- MediaPipe
+
+## 개발 파트 
+- 3D 모델(GLTF형식) 웹 렌더링
+- Face Traking을 사용한 상호작용 인터페이스 구현
+
+## 주요 성과 
+- 짧은 시간동안 프로젝트를 개발해야 하는 상황속에서 팀원 모두가 높은 집중력을 발휘하고 협업의 시너지를 내어 성공적으로 완성한 팀 프로젝트 경험
+- 이미지나 텍스트와 같은 기존의 콘텐츠가 아닌, 새로운 형태의 콘텐츠를 활용한 웹 프로젝트 경험
+- 키보드, 마우스 외의 카메라와 신체 부위를 상호작용의 입력기기로 활용하여 개발해본 경험
+
+
+## Real Display 프로젝트 데모
+
+![Real Display Demo](RealDisplayDemo.gif)
+
+
+
+
+
+
 This site is a site where you can experience 3D effects with a webcam or camera.
+
 
 Demo : https://studykic.github.io/real_display/
 
 Enter the site and press F11
 
 It is also smoother to use in browsers where GPU raster is available (ex: Ms Edge)
+
+
+
