@@ -33,5 +33,7 @@ MediaPipe 라이브러리를 사용하여 사용자의 얼굴 움직임을 인�
 
 ## Real Display 프로젝트 데모
 
-https://studykic.github.io/real_display/
+[프로젝트 사이트 방문, 웹캠 필요](https://studykic.github.io/real_display)
+
+
 ![gifit_1684826241684](https://github.com/studykic/real_display/assets/112735947/e25c296b-05f6-47d9-8867-feebbcfcd180)
